@@ -16,10 +16,10 @@ cord2_d=2;
 
 $fn=64;
 
-left(10) magbrace_strands(3,0);
-back(10) joiner();
-fwd(10) magbrace_double();
-right(10) magbrace_single();
+left(11) magbrace_strands(3,0);
+back(11) joiner();
+fwd(11) magbrace_double();
+right(11) magbrace_single();
 magbrace_three();
 
 module magbrace_three(){
